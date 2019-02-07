@@ -7,7 +7,8 @@
       "preview": "In the early 1960s, nearly 20 years since the Second World War ended, an Italian general, accompanied by a priest who is also an Italian army colonel, is sent to Albania to locate and collect the bones of his countrymen who had died during the war and return them for burial in Italy.",
       "year": "1963", 
       "author": "Ismail Kadare",
-      "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_general_of_the_dead_army.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_general_of_the_dead_army.jpg",
+      "tags": ["literatura", "kadare"]
     },
     { 
       "id": 2, 
@@ -16,7 +17,8 @@
       "preview": "It tells about the Albanian-Ottoman war during the time of Skanderbeg.",
       "year": "1970",
       "author": "Ismail Kadare",
-      "image": "https://upload.wikimedia.org/wikipedia/en/3/31/The_Siege_%28Kadare_novel%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/31/The_Siege_%28Kadare_novel%29.jpg",
+      "tags": ["literatura", "kadare"]
     },
     { 
       "id": 3, 
@@ -25,7 +27,8 @@
       "preview": "It describes life in a small Albanian city during World War II.",
       "year": "1971",
       "author": "Ismail Kadare",
-      "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Chronicle_in_stone.jpg" 
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Chronicle_in_stone.jpg",
+      "tags": ["literatura", "kadare"]
     },
     { 
       "id": 4, 
@@ -34,7 +37,8 @@
       "preview": "The story tells of Gjorg Berisha, a 26-year-old Albanian man living on the high plateau. He is forced to commit a murder under the laws of the Kanun to avenge his brother.",
       "year": "1978",
       "author": "Ismail Kadare",
-      "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Broken_April.jpg" 
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Broken_April.jpg",
+      "tags": ["literatura", "kadare"]
     }
   ],
   "comments": [
