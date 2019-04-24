@@ -7,6 +7,22 @@
       "background_class": "bg-dark",
       "background_value": "hsl(213, 5%, 5%)",
       "contrast": "4.38"
+    },
+    {
+      "id": 2,
+      "text_class": "accent-9",
+      "text_value": "hsl(348, 85%, 55%)",
+      "background_class": "bg-dark",
+      "background_value": "hsl(213, 5%, 5%)",
+      "contrast": "4.73"
+    },
+    {
+      "id": 3,
+      "text_class": "accent-8",
+      "text_value": "hsl(348, 85%, 60%)",
+      "background_class": "bg-dark",
+      "background_value": "hsl(213, 5%, 5%)",
+      "contrast": "5.26"
     }
   ]
 }
