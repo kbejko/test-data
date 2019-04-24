@@ -1,0 +1,12 @@
+{
+  "colorCombinations": [
+    {
+      "id": 1,
+      "text_class": "accent",
+      "text_value": "hsl(348, 85%, 50%)",
+      "background_class": "bg-dark",
+      "background_value": "hsl(213, 5%, 5%)",
+      "contrast": "4.38"
+    }
+  ]
+}
